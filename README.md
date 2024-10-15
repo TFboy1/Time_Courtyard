@@ -34,8 +34,8 @@ https://docs.github.com/zh/desktop/overview/getting-started-with-github-desktop
 2. 打开github desktop
 3. 点击clone项目，选择Time_Courtyard
 3. 点击current branch，点击new branch，输入你要写的模块的名字比如user_manager
-3. 提交代码,点击commit
-4. 推送分支,点击push,在右上角
+3. 提交代码,点击commit 
+4. 推送分支,点击push origin,在右上角
 5. 新建 Pull Request
 6. 等待管理员审核
 以上这些请仔细阅读教程之后操作
